@@ -1,3 +1,3 @@
 # Domino-test
 
-testing all functionalities for repos
+testing all functionalities 
